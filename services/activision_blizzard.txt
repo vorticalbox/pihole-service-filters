@@ -1,0 +1,9 @@
+# activision_blizzard — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 6 domains
+activision.com
+activisionblizzard.com
+callofduty.com
+callofdutyleague.com
+codmwest.com
+demonware.net

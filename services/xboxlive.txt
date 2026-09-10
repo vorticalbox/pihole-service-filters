@@ -1,0 +1,11 @@
+# xboxlive — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 8 domains
+gamepass.com
+xbox-global.ifs.windows.com
+xbox-guide-public.rec.mp.microsoft.com
+xbox.ipv6.microsoft.com
+xboxab.com
+xboxab.net
+xboxlive.com
+xboxservices.com

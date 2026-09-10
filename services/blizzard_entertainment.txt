@@ -1,0 +1,12 @@
+# blizzard_entertainment — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 9 domains
+battle.net
+battlenet.com.cn
+blizzard.cn
+blizzard.com
+blizzardgames.cn
+blz-contentstack.com
+blzstatic.cn
+bnet.163.com
+bnet.cn

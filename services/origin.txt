@@ -1,0 +1,10 @@
+# origin — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 7 domains
+accounts.ea.com
+dawngate.com
+eastore.com
+lordofultima.com
+origin.com
+origin.tv
+signin.ea.com

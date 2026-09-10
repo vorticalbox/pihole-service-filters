@@ -1,0 +1,6 @@
+# microsoft_teams — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 3 domains
+teams.cdn.office.net
+teams.live.com
+teams.microsoft.com

@@ -1,0 +1,9 @@
+# riot_games — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 6 domains
+dradis-prod.rdatasrv.net
+pvp.net
+rgpub.io
+riotcdn.com
+riotcdn.net
+riotgames.com

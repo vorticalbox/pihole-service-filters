@@ -1,0 +1,13 @@
+# nvidia — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 10 domains
+geforce.com
+geforcenow.com
+nvidia.cn
+nvidia.com
+nvidia.com.global.ogslb.com
+nvidia.eu
+nvidia.partners
+nvidiagrid.net
+nvidianews.com
+tegrazone.com

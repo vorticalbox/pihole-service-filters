@@ -1,0 +1,12 @@
+# lazada — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 9 domains
+k1-lazadasg-oversea.gslb.ksyuncdn.com
+lazada.co.id
+lazada.co.th
+lazada.com
+lazada.com.my
+lazada.com.ph
+lazada.sg
+lazada.vn
+slatic.net

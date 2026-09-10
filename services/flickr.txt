@@ -1,0 +1,9 @@
+# flickr — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 6 domains
+flic.kr
+flickr.com
+flickr.net
+flickrprints.com
+flickrpro.com
+staticflickr.com

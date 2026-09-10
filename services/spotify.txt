@@ -1,0 +1,16 @@
+# spotify — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 13 domains
+byspotify.com
+pscdn.co
+scdn.co
+spoti.fi
+spotify-everywhere.com
+spotify.com
+spotify.design
+spotifycdn.com
+spotifycdn.net
+spotifycharts.com
+spotifycodes.com
+spotifyforbrands.com
+spotifyjobs.com

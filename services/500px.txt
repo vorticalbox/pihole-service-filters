@@ -1,0 +1,5 @@
+# 500px — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 2 domains
+500px.com
+500px.org

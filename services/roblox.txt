@@ -1,0 +1,16 @@
+# roblox — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 13 domains
+blox.com
+rbx.cn
+rbx.com
+rbxadder.com
+rbxcdn.com
+rbxcdn.net
+rbxinfra.com
+rbxinfra.net
+roblox.cn
+roblox.com
+roblox.qq.com
+robloxcdn.com
+robloxdev.cn

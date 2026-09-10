@@ -1,0 +1,5 @@
+# 9gag — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 2 domains
+9cache.com
+9gag.com

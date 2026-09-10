@@ -1,0 +1,9 @@
+# ok — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 6 domains
+insideok.ru
+ok.games
+ok.ru
+okcdn.ru
+oktech.ru
+st.mycdn.me

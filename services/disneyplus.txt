@@ -1,0 +1,11 @@
+# disneyplus — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 8 domains
+disney-plus.net
+disney.playback.edge.bamgrid.com
+disneynow.com
+disneyplus.com
+hotstar.com
+media.dssott.com
+star.playback.edge.bamgrid.com
+starplus.com

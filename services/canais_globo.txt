@@ -1,0 +1,6 @@
+# canais_globo — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 3 domains
+canaisglobo.globo.com
+globosat.globo.com
+gsatmulti.globo.com

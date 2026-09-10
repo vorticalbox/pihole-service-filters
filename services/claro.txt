@@ -1,0 +1,25 @@
+# claro — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 22 domains
+claro.com
+claro.com.ar
+claro.com.br
+claro.com.co
+claro.com.do
+claro.com.ec
+claro.com.gt
+claro.com.hn
+claro.com.ni
+claro.com.pa
+claro.com.pe
+claro.com.py
+claro.com.sv
+claro.com.uy
+claro.cr
+claro.net.br
+claro.net.co
+clarochile.cl
+claromusica.com
+claropr.com
+clarovideo.com
+usclaro.com

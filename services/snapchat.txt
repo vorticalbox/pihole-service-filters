@@ -1,0 +1,8 @@
+# snapchat — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 5 domains
+impala-media-production.s3.amazonaws.com
+sc-cdn.net
+snap-dev.net
+snapads.com
+snapchat.com

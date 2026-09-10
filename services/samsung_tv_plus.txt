@@ -1,0 +1,7 @@
+# samsung_tv_plus — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 4 domains
+internetat.tv
+samsung.wurl.tv
+samsungcloud.tv
+samsungtvplus.com

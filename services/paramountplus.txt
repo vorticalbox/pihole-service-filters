@@ -1,0 +1,5 @@
+# paramountplus — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 2 domains
+paramountplus.com
+pplusstatic.com

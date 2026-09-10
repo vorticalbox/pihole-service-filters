@@ -1,0 +1,14 @@
+# iheartradio — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 11 domains
+937theriver.com
+iheart.com
+iheart.mx
+iheartmedia.com
+iheartradio.ca
+iheartradio.co.nz
+iheartradio.com
+ihrdev.com
+ihrhls.com
+ihrint.com
+ihrstage.com

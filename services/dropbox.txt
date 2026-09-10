@@ -1,0 +1,25 @@
+# dropbox — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 22 domains
+addtodropbox.com
+app.hellosign.com
+dash.ai
+db.tt
+docsend.com
+dropbox-dns.com
+dropbox.com
+dropbox.tech
+dropbox.zendesk.com
+dropboxapi.com
+dropboxbusiness.com
+dropboxcaptcha.com
+dropboxforum.com
+dropboxforums.com
+dropboxinsiders.com
+dropboxlegal.com
+dropboxmail.com
+dropboxpartners.com
+dropboxstatic.com
+dropboxteam.com
+dropboxusercontent.com
+getdropbox.com

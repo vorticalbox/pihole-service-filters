@@ -1,0 +1,6 @@
+# playstore — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 3 domains
+play-fe.googleapis.com
+play-lh.googleusercontent.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com

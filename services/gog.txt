@@ -1,0 +1,7 @@
+# gog — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 4 domains
+gog-cdn-lumen.secure2.footprint.net
+gog-statics.com
+gog.com
+gogalaxy.com

@@ -1,0 +1,10 @@
+# betano — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 7 domains
+betano.bg
+betano.ca
+betano.com
+betano.cz
+betano.de
+betano.ng
+betano.pt

@@ -1,0 +1,20 @@
+# telegram — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 17 domains
+comments.app
+contest.com
+graph.org
+quiz.directory
+t.me
+tdesktop.com
+telega.one
+telegra.ph
+telegram-cdn.org
+telegram.dog
+telegram.me
+telegram.org
+telegram.space
+telesco.pe
+tg.dev
+tx.me
+usercontent.dev

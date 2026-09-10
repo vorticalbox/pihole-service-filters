@@ -1,0 +1,10 @@
+# skype — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 7 domains
+edge-skype-com.s-0001.s-msedge.net
+skype-edf.akadns.net
+skype.com
+skype.net
+skypeassets.com
+skypeassets.net
+skypedata.akadns.net

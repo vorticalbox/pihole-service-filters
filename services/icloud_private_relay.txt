@@ -1,0 +1,6 @@
+# icloud_private_relay — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 3 domains
+mask-canary.icloud.com
+mask-h2.icloud.com
+mask.icloud.com

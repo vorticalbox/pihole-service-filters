@@ -1,0 +1,6 @@
+# rakuten_viki — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 3 domains
+m-content-viki.s.llnwi.net
+viki.com
+viki.io

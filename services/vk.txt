@@ -1,0 +1,23 @@
+# vk — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 20 domains
+mvk.com
+userapi.com
+vk-cdn.me
+vk-cdn.net
+vk-portal.net
+vk.cc
+vk.com
+vk.design
+vk.link
+vk.me
+vkcache.com
+vkgo.app
+vklive.app
+vkmessenger.app
+vkmessenger.com
+vkontakte.ru
+vkuseraudio.com
+vkuserlive.net
+vkuservideo.com
+vkuservideo.net

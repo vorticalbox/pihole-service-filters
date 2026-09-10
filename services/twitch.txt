@@ -1,0 +1,9 @@
+# twitch — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 6 domains
+ext-twitch.tv
+jtvnw.net
+ttvnw.net
+twitch.tv
+twitchcdn.net
+twitchsvc.net

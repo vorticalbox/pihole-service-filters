@@ -1,0 +1,9 @@
+# betfair — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 6 domains
+betfair.com
+betfair.com.au
+betfair.es
+betfair.it
+betfair.ro
+betfair.se

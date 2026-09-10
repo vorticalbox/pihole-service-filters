@@ -1,0 +1,11 @@
+# wargaming — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 8 domains
+wargaming.com
+wargaming.net
+wgcdn.co
+wgcrowd.io
+worldoftanks.com
+worldofwarplanes.com
+worldofwarships.eu
+wotblitz.com

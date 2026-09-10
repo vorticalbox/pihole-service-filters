@@ -1,0 +1,10 @@
+# weibo — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 7 domains
+wbimg.cn
+wbimg.com
+wcdn.cn
+weibo.cn
+weibo.com
+weibo.com.cn
+weibocdn.com

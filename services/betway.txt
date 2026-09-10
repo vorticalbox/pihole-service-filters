@@ -1,0 +1,19 @@
+# betway — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 16 domains
+betway.be
+betway.bet.ar
+betway.co.za
+betway.com
+betway.com.gh
+betway.com.ng
+betway.de
+betway.es
+betway.fr
+betway.it
+betway.mx
+betway.pl
+betway.se
+betwaygroup.com
+betwaysatta.com
+vietnambetway88.com

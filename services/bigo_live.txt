@@ -1,0 +1,7 @@
+# bigo_live — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 4 domains
+bigo.sg
+bigo.tv
+bigolive.tv
+bigovideo.tv

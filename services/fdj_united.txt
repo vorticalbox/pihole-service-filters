@@ -1,0 +1,31 @@
+# fdj_united — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 28 domains
+32red.co.uk
+32red.com
+aleda.fr
+bingo.com
+fdj.fr
+fdjunited.com
+fdjunitedaffiliates.com
+laddition.com
+lottery.ie
+mariacasino.dk
+mariacasino.ee
+mariacasino.se
+nirio.fr
+ottocasino.com
+sportinggroup.com
+sportingindex.com
+storspelare.se
+unibet.be
+unibet.co.uk
+unibet.dk
+unibet.ee
+unibet.fr
+unibet.it
+unibet.nl
+unibet.ro
+unibet.se
+vladcazino.ro
+zeturf.fr

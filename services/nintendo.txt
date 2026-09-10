@@ -1,0 +1,20 @@
+# nintendo — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 17 domains
+nintendo-europe.com
+nintendo.be
+nintendo.co.jp
+nintendo.co.uk
+nintendo.com
+nintendo.com.au
+nintendo.de
+nintendo.es
+nintendo.eu
+nintendo.fr
+nintendo.it
+nintendo.jp
+nintendo.net
+nintendo.nl
+nintendo.pt
+nintendoswitch.cn
+nintendowifi.net

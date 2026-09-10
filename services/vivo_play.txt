@@ -1,0 +1,6 @@
+# vivo_play — blocklist for Pi-hole Adlists
+# Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
+# 3 domains
+vivoplay.com.br
+vivoplay.net
+vivotv.com.br
