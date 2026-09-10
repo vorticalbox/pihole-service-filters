@@ -17,6 +17,16 @@ Instead of toggling hundreds of individual domain rows, add/remove a service as 
 
 See [`services/_index.md`](services/_index.md) for the full list (137 services, one file each) — everything from streaming (Netflix, Disney+, Twitch) to social (Facebook, TikTok, Reddit), gaming (Steam, Epic, Roblox), shopping (Temu, Shein, AliExpress), AI chat (Gemini, Grok, Copilot), and gambling.
 
+## Companion list: browser games
+
+For broad browser/flash game coverage, this repo is meant to be used alongside [IREK-szef/games-blocklist](https://github.com/IREK-szef/games-blocklist) (8,000+ domains, AdGuard Home format):
+
+```
+https://raw.githubusercontent.com/IREK-szef/games-blocklist/main/AGH.txt
+```
+
+`services/online-games.txt` in this repo fills gaps found by cross-checking that list against top game-aggregator sites (Poki, AddictingGames, CoolMathGames, etc.) — add both as separate Adlists.
+
 ## Regenerating
 
 `build.py` parses AdGuard Home's `internal/filtering/servicelist.go` and regenerates every file in `services/`. Re-run it against a fresh copy of that file to pick up new/updated services from upstream AdGuard.

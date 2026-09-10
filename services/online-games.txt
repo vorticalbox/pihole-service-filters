@@ -1,0 +1,24 @@
+# online-games — blocklist for Pi-hole Adlists
+# Popular browser-game aggregators NOT covered by IREK-szef/games-blocklist
+# (cross-checked 2026-09-10). Deliberately excludes school/curriculum tools
+# (Scratch, Prodigy, MathPlayground, Math-Play) which may be assigned homework.
+addictinggames.com
+onlinegames.io
+playhop.com
+itch.io
+coolmathgames.com
+silvergames.com
+twoplayergames.org
+gamepix.com
+gamedistribution.com
+gamejolt.com
+armorgames.com
+agame.com
+mousebreaker.com
+notdoppler.com
+newgrounds.com
+freeonlinegames.com
+gogy.com
+gamesgames.com
+plays.org
+1001games.com
