@@ -139,3 +139,4 @@
 | youtube | 175 | `services/youtube.txt` |
 | yy | 1 | `services/yy.txt` |
 | zhihu | 2 | `services/zhihu.txt` |
+| yandex | 110 | `services/yandex.txt` |
