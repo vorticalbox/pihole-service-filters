@@ -19,6 +19,7 @@ bonk.io
 cache.crazygames.com
 classic.minecraft.net
 cookieclicker.com
+coolmathgames.com
 crazygames-prod-nlb-analytics.elb.us-west-2.amazonaws.com
 crazygames.at
 crazygames.co
