@@ -1,7 +1,9 @@
 # epic_games — blocklist for Pi-hole Adlists
 # Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
-# 4 domains
+# 6 domains
 eac-cdn.com
 easy.ac
 easyanticheat.net
 epicgames.com
+store.epicgames.com
+www.store.epicgames.com
