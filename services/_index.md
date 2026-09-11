@@ -140,5 +140,4 @@
 | yy | 1 | `services/yy.txt` |
 | zhihu | 2 | `services/zhihu.txt` |
 | yandex | 110 | `services/yandex.txt` |
-| crazygames | 35 | `services/crazygames.txt` |
-| online-games | 20 | `services/online-games.txt` |
+| online-games | 127 | `services/online-games.txt` |
