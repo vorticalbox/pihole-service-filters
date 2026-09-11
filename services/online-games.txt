@@ -1,8 +1,8 @@
 # online-games — blocklist for Pi-hole Adlists
 # Browser-game aggregators + CrazyGames regional/CDN domains (merged from crazygames.txt;
 # source: developer.crazygames.com/docs). Also direct game hosts found via game-title
-# searches (tower defense, .io multiplayer, retro bowl, slope, cookie clicker, etc.).
-# Cross-checked 2026-09-11 via IREK AGH.txt and local Pi-hole gravity.db.
+# searches (tower defense, .io multiplayer, retro bowl, slope, sprunki, bitlife, etc.).
+# Cross-checked 2026-09-11 via IREK AGH.txt and Pi-hole gravity/dig tests.
 # Deliberately excludes school/curriculum tools (Scratch, Prodigy, MathPlayground,
 # Math-Play, Hooda Math) which may be assigned homework.
 1001games.com
@@ -12,12 +12,16 @@ about.crazygames.com
 addictinggames.com
 agame.com
 agar.io
+amongus.io
 armorgames.com
+basketballstarsgame.net
+bitlife.com
 bloonstd.io
 bloxd.io
 bonk.io
 cache.crazygames.com
 classic.minecraft.net
+classroom6x.com
 cookieclicker.com
 coolmathgames.com
 crazygames-prod-nlb-analytics.elb.us-west-2.amazonaws.com
@@ -44,18 +48,27 @@ crazygames.ro
 crazygames.ru
 crazygames.se
 crazygames.vn
+crazygamesunblocked.co.uk
+crazyiogames.com
+cryptogames.gg
+defly.io
 developer.crazygames.com
 diep.io
 dinogame.gg
 docs.crazygames.com
 drifthunters.gg
+drivemadunblocked.io
 eaglercraft.com
 eaglercraft.net
 eaglercraft.org
+evowars.io
+evowars.net
 famobi.com
 fireboy-watergirl.com
+fnaf.io
 freeonlinegames.com
 friv.com
+frivclassic.com
 game-files.crazygames.com
 gamedistribution.com
 gameflare.com
@@ -63,7 +76,9 @@ gamejolt.com
 gamepix.com
 games.crazygames.com
 games.gg
+gamesdoodle.org
 gamesgames.com
+gamevgames.com
 gamezhero.com
 gartic.io
 gem-td.net
@@ -77,19 +92,25 @@ html5.gamedistribution.com
 html5games.com
 img.crazygames.com
 imggen.crazygames.com
+imigames.io
 iogames.onl
 iogames.space
 itch.io
 izzygames.com
 kbhgames.com
+kbhsoft.com
 kingdomrush.com
 kizi.com
 kongregate.com
 krunker.io
 lagged.com
+leveldevil.io
 media.crazygames.com
 miniplay.com
+moomoo.io
+mope.io
 motox3m.io
+motox3m.org
 mousebreaker.com
 newgrounds.com
 ninjakiwi.com
@@ -101,12 +122,14 @@ orteil.dashnet.org
 ovo.game
 ovo.onl
 papasgames.com
+pizza-edition-unblocked.github.io
 pizzatower.io
 playhop.com
 plays.org
 poki.com
 poki.io
 quickunblocked.com
+raft.io
 retro-bowl.co
 retrobowl.college
 retrobowl.me
@@ -119,17 +142,27 @@ slope-game.io
 slope.io
 slope3.com
 slopeonline.online
+snake.io
+splix.io
+sprunki.com
+spunky.games
 static.crazygames.com
 stickpage.com
 surviv.io
 tdgames.io
 towerdefense.com
 trafeek.com
+tunnelrush.co
 twoplayergames.org
 tyroneunblockedgames.com
 ubgworld.com
 unblocked-games.github.io
 unblockedgames76.com
+webgames.me
 wordle2.io
+wormate.io
 y10.com
 y8.com
+zenarcades.com
+zombs.io
+zombsroyale.io
