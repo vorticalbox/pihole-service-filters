@@ -27,6 +27,16 @@ https://raw.githubusercontent.com/IREK-szef/games-blocklist/main/AGH.txt
 
 `services/online-games.txt` in this repo fills gaps found by cross-checking that list against top game-aggregator sites (Poki, AddictingGames, CoolMathGames, etc.) — add both as separate Adlists.
 
+## Known false positives (allow overrides)
+
+`services/_overrides-allow.txt` tracks every domain we had to manually
+allowlist because an upstream list (ours or third-party) over-blocked it,
+breaking legitimate functionality — BBC (bbc.co.uk/bbc.com, can't isolate
+BBC Games by URL path via DNS), Xbox Live auth, Nintendo Account auth,
+Niantic (Pikmin Bloom/Pokemon GO), and Firebase Installations API (Pokemon
+TCG Pocket). Not an adlist itself — a reference to re-apply as Pi-hole
+regex/exact allow rules if gravity ever gets rebuilt from scratch.
+
 ## Regenerating
 
 `build.py` parses AdGuard Home's `internal/filtering/servicelist.go` and regenerates every file in `services/`. Re-run it against a fresh copy of that file to pick up new/updated services from upstream AdGuard.

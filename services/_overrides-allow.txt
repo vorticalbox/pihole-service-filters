@@ -1,0 +1,38 @@
+# Overrides for false positives in third-party lists
+#
+# These are ALLOW entries (Pi-hole regex allow / type=2) needed because an
+# upstream list we use (IREK-szef/games-blocklist) blocks a domain too
+# broadly, breaking legitimate non-gaming functionality.
+#
+# We can't edit that external repo, so these overrides live here as the
+# source of truth for what needs re-adding to Pi-hole after any gravity
+# rebuild that might reset custom rules.
+#
+# Format: one regex per line, Pi-hole "regex allow" syntax.
+# Add each as: Pi-hole > Domains > Regex allow.
+
+# BBC — IREK-szef blocks bbc.co.uk / bbc.com wholesale to catch BBC Games,
+# but that also kills BBC News, iPlayer, Weather (same shared domains/CDN).
+# DNS can't block just the /games URL path, so we allow the whole domain.
+(\.|^)bbc\.co\.uk$
+(\.|^)bbc\.com$
+(\.|^)bbci\.co\.uk$
+
+# Xbox Live — IREK-szef blocks xboxlive.com wholesale, which breaks Xbox
+# auth/identity for EVERY app on the console (Netflix, Disney+), not just
+# games.
+(\.|^)xboxlive\.com$
+
+# Nintendo — same list blocks nintendo.com/net wholesale, breaking Nintendo
+# Account auth needed by Pokemon TCG Pocket (and any other Nintendo-auth app).
+(\.|^)nintendo\.(com|net)$
+
+# Niantic — general tracking/games lists block nianticlabs.com, breaking
+# Pikmin Bloom and Pokemon GO backend auth.
+(\.|^)nianticlabs\.com$
+
+# Pokemon TCG Pocket auth — blocklistproject/tracking.txt blocks Google's
+# Firebase Installations API wholesale, needed for app identity/auth tokens.
+# EXACT allow, not regex — only this specific endpoint is needed.
+# (add as Pi-hole "Domains > Exact allow", not regex)
+firebaseinstallations.googleapis.com
