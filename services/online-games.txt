@@ -134,6 +134,9 @@ leveldevil.io
 madkidgames.com
 media.crazygames.com
 minicliponline.com
+miniclip.com
+miniclip.se
+miniclipcdn.com
 minigames.com
 minigames.uk
 miniplay.com
@@ -340,6 +343,9 @@ www.lagged.com
 www.leveldevil.io
 www.madkidgames.com
 www.minicliponline.com
+www.miniclip.com
+www.miniclip.se
+www.miniclipcdn.com
 www.minigames.com
 www.minigames.uk
 www.miniplay.com
