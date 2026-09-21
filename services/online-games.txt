@@ -117,6 +117,7 @@ html5games.io
 html5games.me
 htmlgames.com
 img.crazygames.com
+imgs.crazygames.com
 imggen.crazygames.com
 imigames.io
 iogames.onl
