@@ -1,6 +1,8 @@
 # tiktok — blocklist for Pi-hole Adlists
 # Source: AdGuard Home servicelist.go (github.com/AdguardTeam/AdGuardHome)
-# 31 domains
+# 31 domains + 5 manually added (Pangle ad network, not in upstream AdGuard
+# list as of 2026-09 — re-add these if build.py is ever re-run against a
+# fresh servicelist.go, they'll be dropped by the regen otherwise)
 amemv.com
 bdurl.com
 bytecdn.cn
@@ -32,3 +34,9 @@ tiktokv.com
 ttlivecdn.com
 ttlivecdn.com.c.bytefcdn-oversea.com
 zijieapi.com
+# --- manually added: Pangle (ByteDance's ad network), separate registrable domain ---
+tiktokpangle.us
+tiktokpangle-b.us
+api16-access-ttp.tiktokpangle.us
+api16-access-ttp-b.tiktokpangle.us
+api16-access-ttp.tiktokpangle-b.us
