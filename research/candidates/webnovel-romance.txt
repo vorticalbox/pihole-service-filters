@@ -1,0 +1,5 @@
+# One apex domain per line — run verify-candidates.py before merging
+# harrypotterfanfiction.com
+# potionsandsnitches.org
+# novelupdates.com
+stories.space

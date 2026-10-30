@@ -1,0 +1,40 @@
+# fanfiction_story_platforms — blocklist for Pi-hole Adlists
+# User-generated fiction, quizzes-as-social, and romance/web-novel readers often used
+# as Quotev alternatives. Parental / kid-safety block — not malware lists.
+# Researched 2026-10-30 (Reddit r/Quotev, r/FanFiction, Forbes fanfic roundup, DNS verify).
+# Deliberately excludes broad hosts (blogspot, deviantart, reddit — separate toggles).
+# Pair with services/quotev.txt or use this file alone (includes quotev apex domains).
+# 33 domains
+archiveofourown.org
+ao3.org
+asianfanfics.com
+boxnovel.net
+commaful.com
+dreame.com
+dreamwidth.org
+fanfics.me
+fanfiction.net
+fanmtl.com
+ficbook.net
+fiction.live
+fictionpress.com
+goodnovel.com
+inkitt.com
+lightnovelworld.com
+livejournal.com
+moboreader.com
+novelfull.com
+penana.com
+questionablequesting.com
+readnovelfull.com
+royalroad.com
+scribblehub.com
+spacebattles.com
+squidgeworld.org
+sufficientvelocity.com
+tapas.io
+wattpad.com
+wattpad.co.uk
+webnovel.com
+quotev.com
+quotev.net

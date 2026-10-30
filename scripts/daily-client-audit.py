@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Daily 24h query digest for ALL Pi-hole clients.
 Categorizes domains queried in the last 24h by keyword/regex, flags anything
-gaming/porn/gambling-adjacent that ISN'T already blocked by an existing
+gaming/porn/gambling/story-platform traffic that ISN'T already blocked by an existing
 Pi-hole rule or adlist, per client, so new sites get caught before they
 become a habit.
 
@@ -38,6 +38,15 @@ CATEGORIES = {
     ],
     "vpn_proxy": [
         r"vpn", r"proxy", r"tunnel", r"nordvpn", r"expressvpn", r"tor-",
+    ],
+    "story_platforms": [
+        r"quotev", r"wattpad", r"archiveofourown", r"\bao3\.", r"fanfiction\.net",
+        r"fictionpress", r"scribblehub", r"inkitt", r"royalroad", r"tapas\.io",
+        r"webnovel", r"penana", r"dreamwidth", r"livejournal", r"asianfanfics",
+        r"ficbook", r"squidgeworld", r"spacebattles", r"sufficientvelocity",
+        r"questionablequesting", r"fiction\.live", r"commaful", r"fanfics\.me",
+        r"goodnovel", r"dreame", r"moboreader", r"readnovelfull", r"novelfull",
+        r"lightnovelworld", r"boxnovel", r"fanmtl",
     ],
 }
 
