@@ -6,7 +6,7 @@
 
 Sites where kids go after Quotev for the same content shape: long-form fic, fandom communities, forums with story threads. AO3 and FanFiction.net are the largest; many smaller archives explicitly allow explicit ratings.
 
-## In blocklist (`fanfiction_story_platforms.txt`)
+## In blocklist (`story_platforms.txt`)
 
 | Domain | Role |
 |--------|------|

@@ -15,14 +15,13 @@ Instead of toggling hundreds of individual domain rows, add/remove a service as 
 
 ## Services
 
-See [`services/_index.md`](services/_index.md) for the full list — everything from streaming (Netflix, Disney+, Twitch) to social (Facebook, TikTok, Reddit), gaming (Steam, Epic, Roblox), shopping (Temu, Shein, AliExpress), AI chat (Gemini, Grok, Copilot), gambling, and **parental story/fanfic blocks** (`quotev`, `fanfiction_story_platforms`).
+See [`services/_index.md`](services/_index.md) for the full list — everything from streaming (Netflix, Disney+, Twitch) to social (Facebook, TikTok, Reddit), gaming (Steam, Epic, Roblox), shopping (Temu, Shein, AliExpress), AI chat (Gemini, Grok, Copilot), gambling, and **parental story blocks** (`story_platforms`).
 
 ## Parental: Quotev & similar story sites
 
-For kid-inappropriate quiz/fanfic/romance-novel platforms (e.g. Quotev), add one or both Adlists:
+One Adlist — Quotev, Wattpad, AO3, FanFiction.net, web-novel apps, and common alternatives:
 
-- `https://raw.githubusercontent.com/vorticalbox/pihole-service-filters/main/services/quotev.txt` — Quotev only
-- `https://raw.githubusercontent.com/vorticalbox/pihole-service-filters/main/services/fanfiction_story_platforms.txt` — Quotev + Wattpad, AO3, FanFiction.net, web-novel apps, and common alternatives
+`https://raw.githubusercontent.com/vorticalbox/pihole-service-filters/main/services/story_platforms.txt`
 
 Ongoing domain research: [`research/README.md`](research/README.md).
 

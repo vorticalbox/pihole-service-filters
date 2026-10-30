@@ -44,7 +44,7 @@
 | epic_games | 4 | `services/epic_games.txt` |
 | espn | 16 | `services/espn.txt` |
 | facebook | 440 | `services/facebook.txt` |
-| fanfiction_story_platforms | 33 | `services/fanfiction_story_platforms.txt` |
+| story_platforms | 33 | `services/story_platforms.txt` |
 | fdj_united | 28 | `services/fdj_united.txt` |
 | fifa | 2 | `services/fifa.txt` |
 | flickr | 6 | `services/flickr.txt` |
@@ -98,7 +98,6 @@
 | privacy | 1 | `services/privacy.txt` |
 | proton | 5 | `services/proton.txt` |
 | qq | 3 | `services/qq.txt` |
-| quotev | 2 | `services/quotev.txt` |
 | rakuten_viki | 3 | `services/rakuten_viki.txt` |
 | reddit | 5 | `services/reddit.txt` |
 | riot_games | 6 | `services/riot_games.txt` |

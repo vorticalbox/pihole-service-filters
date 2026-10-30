@@ -25,4 +25,4 @@ Quotev (`quotev.com`) mixes personality quizzes, social profiles, and user-publi
 
 ## List file
 
-`services/quotev.txt`
+`services/story_platforms.txt` (Quotev apex domains at lines with `quotev.com` / `quotev.net`)

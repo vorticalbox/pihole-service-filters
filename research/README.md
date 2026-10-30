@@ -6,8 +6,8 @@ Living research for domains that should land in `services/*.txt` blocklists. Goa
 
 | ID | Doc | Output list |
 |----|-----|-------------|
-| 01 | [quotev-ecosystem.md](projects/01-quotev-ecosystem.md) | `services/quotev.txt` |
-| 02 | [fanfiction-archives.md](projects/02-fanfiction-archives.md) | `services/fanfiction_story_platforms.txt` |
+| 01 | [quotev-ecosystem.md](projects/01-quotev-ecosystem.md) | `services/story_platforms.txt` |
+| 02 | [fanfiction-archives.md](projects/02-fanfiction-archives.md) | `services/story_platforms.txt` |
 | 03 | [webnovel-romance-apps.md](projects/03-webnovel-romance-apps.md) | same (romance/novel section) |
 | 04 | [pi-audit-feedback-loop.md](projects/04-pi-audit-feedback-loop.md) | `scripts/daily-client-audit.py` category |
 

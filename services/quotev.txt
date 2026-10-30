@@ -1,7 +1,0 @@
-# quotev — blocklist for Pi-hole Adlists
-# Quiz + user story platform (Quotev). Parental block; not in AdGuard servicelist.
-# Researched 2026-10-30: apex covers subdomains in Pi-hole gravity (www, m, secure, etc.).
-# Related alts: see fanfiction_story_platforms.txt
-# 2 domains
-quotev.com
-quotev.net

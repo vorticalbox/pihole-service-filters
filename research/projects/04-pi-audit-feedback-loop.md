@@ -18,14 +18,12 @@ Repo copy: `scripts/daily-client-audit.py` — includes `story_platforms` regex 
 
 ## Category: `story_platforms`
 
-Matches domain substrings for Quotev, Wattpad, AO3, fanfiction.net, web-novel hosts, and related forums. Overlaps intentional with `services/fanfiction_story_platforms.txt` so audit highlights **gaps** (domains not yet on blocklist).
+Matches domain substrings for Quotev, Wattpad, AO3, fanfiction.net, web-novel hosts, and related forums. Overlaps intentional with `services/story_platforms.txt` so audit highlights **gaps** (domains not yet on blocklist).
 
 ## Deploy checklist
 
 1. Copy updated audit script to Pi if needed
-2. Add Adlists:
-   - `.../services/quotev.txt` (minimal)
-   - `.../services/fanfiction_story_platforms.txt` (recommended superset)
+2. Add Adlist `.../services/story_platforms.txt`
 3. Pi-hole → Update Gravity
 4. Optional: assign Adlists to a **Kids** group in Pi-hole v6 if only child VLAN uses them
 
