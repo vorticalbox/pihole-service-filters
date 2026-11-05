@@ -44,7 +44,6 @@
 | epic_games | 4 | `services/epic_games.txt` |
 | espn | 16 | `services/espn.txt` |
 | facebook | 440 | `services/facebook.txt` |
-| story_platforms | 33 | `services/story_platforms.txt` |
 | fdj_united | 28 | `services/fdj_united.txt` |
 | fifa | 2 | `services/fifa.txt` |
 | flickr | 6 | `services/flickr.txt` |
@@ -115,6 +114,7 @@
 | spotify | 13 | `services/spotify.txt` |
 | spotify_video | 6 | `services/spotify_video.txt` |
 | steam | 35 | `services/steam.txt` |
+| story_platforms | 33 | `services/story_platforms.txt` |
 | telegram | 17 | `services/telegram.txt` |
 | temu | 3 | `services/temu.txt` |
 | tidal | 1 | `services/tidal.txt` |
