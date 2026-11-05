@@ -1,0 +1,53 @@
+# mobile_game_ads — blocklist for Pi-hole Adlists
+# In-app ad/analytics SDK domains used by mobile games (seen on client .72,
+# 2026-09-18 — easybrain casual games, applovin/inmobi/bidmachine/liftoff/
+# smadex/smaato/moloco/fyber ad networks, sascdn creative delivery).
+# Separate from services/online-games.txt (browser/game-site domains) since
+# these are the ad/tracking backend, not the games themselves.
+
+360yield.com
+adsmoloco.com
+ads.inmobi.com
+api-eu-a.bidmachine.io
+api-eu.bidmachine.io
+api.bidmachine.io
+applovin.com
+apps.sascdn.com
+bidmachine.io
+bw-trk.smadex.com
+cdn-f.adsmoloco.com
+cdn.liftoff-creatives.io
+cdn2.inner-active.mobi
+ced-ns.sascdn.com
+cfg.easybrain.com
+config.inmobi.com
+consent.easybrain.com
+cross-promo-provider.easybrain.com
+d.applovin.com
+easybrain.com
+ets.easybrain.com
+euw-hkts.360yield.com
+fyber.com
+got-envoy-prod-gcp-eu-west4-2.track.smaato.net
+got-prod-gcp-eu-west4-2.track.smaato.net
+impression-europe.liftoff.io
+inmobi.com
+inner-active.mobi
+init.supersonicads.com
+am.lazybumblebee.com
+lazybumblebee.com
+liftoff-creatives.io
+liftoff.io
+ms.applovin.com
+pixel-ed.smadex.com
+rt.applovin.com
+sascdn.com
+sdk-events.inner-active.mobi
+skadnetworks.fyber.com
+smadex.com
+smaato.net
+static-content-1.smadex.com
+storevalidator.easybrain.com
+sts.applovin.com
+supersonicads.com
+wv.inner-active.mobi

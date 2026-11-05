@@ -77,6 +77,7 @@
 | meta_ai | 1 | `services/meta_ai.txt` |
 | microsoft_teams | 3 | `services/microsoft_teams.txt` |
 | minecraft | 6 | `services/minecraft.txt` |
+| mobile_game_ads | 46 | `services/mobile_game_ads.txt` |
 | nebula | 2 | `services/nebula.txt` |
 | netflix | 22 | `services/netflix.txt` |
 | nintendo | 17 | `services/nintendo.txt` |
@@ -141,4 +142,4 @@
 | yy | 1 | `services/yy.txt` |
 | zhihu | 2 | `services/zhihu.txt` |
 | yandex | 110 | `services/yandex.txt` |
-| online-games | 417 | `services/online-games.txt` |
+| online-games | 437 | `services/online-games.txt` |
