@@ -25,6 +25,7 @@ Drop one domain per line (comments `#` allowed) under `research/candidates/`. Ru
 
 ## Out of scope (use other lists)
 
+- **The Story Graph** (`thestorygraph.com` and CDN hosts) — household OK; do not add to `story_platforms`.
 - **Hard porn** — existing `porn_nsfw` patterns in audit script + dedicated blocklists.
 - **Reddit / Tumblr / Discord** — already in this repo as separate service files; blocking them is a bigger hammer.
 - **Google Docs** — hosts drafts; DNS block breaks school/work.
