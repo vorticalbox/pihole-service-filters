@@ -431,3 +431,11 @@ www.zeropass.live
 www.zombs.io
 www.zombsroyale.io
 www.zone.msn.com
+
+# CrazyGames subdomains + ALB seen on client 192.168.1.90 (2026-11-04); allowed before this
+api.crazygames.com
+builds.crazygames.com
+cza.crazygames.com
+model.crazygames.com
+videos.crazygames.com
+crazygames-prod-alb-alb-1629624037.us-west-2.elb.amazonaws.com
