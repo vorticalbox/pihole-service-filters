@@ -439,3 +439,26 @@ cza.crazygames.com
 model.crazygames.com
 videos.crazygames.com
 crazygames-prod-alb-alb-1629624037.us-west-2.elb.amazonaws.com
+# Sudoku / pixel-art sites found via web search 2026-09-18, confirmed
+# unblocked (resolved to real IPs) before adding.
+247sudoku.com
+foxy-sudoku.com
+livesudoku.com
+pixelcoloring.net
+pixilart.com
+piskelapp.com
+sudoku.game
+sudokubliss.com
+sudokukingdom.com
+thesudoku.com
+
+www.247sudoku.com
+www.foxy-sudoku.com
+www.livesudoku.com
+www.pixelcoloring.net
+www.pixilart.com
+www.piskelapp.com
+www.sudoku.game
+www.sudokubliss.com
+www.sudokukingdom.com
+www.thesudoku.com
